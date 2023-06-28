@@ -7,8 +7,7 @@ Linux: A Deep Dive
 - Implementation of read and write operations
 
 ## Running instructions  
-```sh
-make         // to compile the driver  
-make clean   // to clear the files created (ex. object file)
-```  
+```make```         // to compile the driver  
+```make clean```   // to clear the files created (ex. object file)
+ 
 
